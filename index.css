@@ -1,0 +1,38 @@
+/* Universal selector
+*{
+    background-color:red;
+    font-size: 20px;
+} */
+
+/* tag/element selector
+h1{
+    color: #af4d4d;
+}
+p{
+    color: aqua;
+} */
+
+/* class selector*/
+/* .border{
+    border: 5px solid red;
+    font-size: 15px;
+    margin: 25px;
+    padding: 10px;
+} */
+h1{
+    color: #af4d4d;
+    border: 3px dotted red;
+}
+
+/*Id selector*/
+/* #two{
+    background-color: black;
+    color:white;
+} */
+
+/*group selector*/
+/* #two,OL{
+color: white;
+font-size: 25px;
+background-color: black;
+} */
